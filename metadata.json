@@ -1,0 +1,6 @@
+{
+  "name": "Spływy Dunajcem – Wycieczki jednodniowe",
+  "description": "Jednodniowe wycieczki z Zakopanego: spływ Dunajcem, spacer w koronach drzew, Jaskinia Bielańska, kuligi. Profesjonalna organizacja i niezapomniane wrażenia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
